@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="flex-center position-ref full-height">
-    <div class="content" id="app">
+    <div id="app" class="content">
         @yield('content')
     </div>
 </div>
