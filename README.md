@@ -15,6 +15,7 @@ Test project
 
 1. run composer install
 1. npm install
+1. To compile npm run dev
 1. copy .env.example to .env
 1. connect db (mysql) in .env
 1. clear cache php artisan config:clear
