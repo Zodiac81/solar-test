@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    Content
+    <comments></comments>
 @stop
